@@ -1,0 +1,14 @@
+{
+	"name": "com.versiontool.plugins",
+	"displayName": "Version Tool Package",
+	"version": "1.0.0",
+	"unity": "2020.3",
+	"author": "Serghii Safonov",
+	"description": "VersionTool for Unity Games",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Serghii/VersionTool.git"
+	}
+}

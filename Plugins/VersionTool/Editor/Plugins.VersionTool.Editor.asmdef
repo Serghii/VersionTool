@@ -1,0 +1,18 @@
+{
+    "name": "VersionTool.Editor",
+    "rootNamespace": "",
+    "references": [        
+        "VersionTool.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
